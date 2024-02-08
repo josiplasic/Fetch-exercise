@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#pokemonName {
+  padding: 50px;
+  width: 650px;
+}
+
+#fetchPokemon {
+  padding: 50px;
+}
+
+img {
+  width: 300px;
+}
